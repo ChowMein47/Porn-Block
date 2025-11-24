@@ -5,12 +5,13 @@
 
 Proyek ini menyediakan daftar blokir untuk menjaga keamanan keluarga, sekolah, kantor, dan jaringan publik dari akses ke situs-situs dewasa.
 Filter disusun dengan rapi, ringan, dan mudah digunakan.
+Filter ini digunakan untuk melengkapi DNS Clean Browsing 
 
 ---
 
 ## ✨ Fitur Utama
 
-* 🔒 **Memblokir ribuan situs pornografi internasional**
+* 🔒 **Memblokir ribuan situs pornografi internasional & lokal**
 * ⚡ **Ringan dan efisien**, tidak membebani performa browser
 * 🧩 **Kompatibel dengan berbagai platform**
 
