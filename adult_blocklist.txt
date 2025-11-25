@@ -1,10 +1,10 @@
-! Title: 🚫Anti-Porn Filter List 
+! Title: ⛔Anti-Porn Filter List 
 ! Updated: 2025-11-25
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/ChowMein47/pornshield-blocklist
 ! License: Mozilla Public License Version 2.0
 
-====================================
+#############==========#############
 
 !!International sites
 ||xvideos.com$doc
@@ -30,6 +30,7 @@
 ||fux.com$doc
 ||peekvids.com$doc
 ||sarapbabe.com$doc
+||blacked.com$doc
 
 !!Local Indonesia sites 
 ||tiava.com$doc
@@ -44,7 +45,7 @@
 ||nntnbkptv2.space$doc
 ||mlyuk.pro$doc
 
-!!REGEX GENERAL BLOCKING 
+!!GENERAL BLOCKING 
 /:\/\/[^\/]*(porn|xxx|sex|adult|erotic|hentai|jav|fetish|pussy|bdsm|cam|escort|fap|gay|milf|bokep|crot|nsfw)[^\/]*\./$document
 
 !!xhamster family sites
